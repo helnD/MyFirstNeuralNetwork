@@ -1,0 +1,8 @@
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\bin\Debug\netcoreapp3.0\Network.deps.json
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\bin\Debug\netcoreapp3.0\Network.dll
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\bin\Debug\netcoreapp3.0\Network.pdb
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\obj\Debug\netcoreapp3.0\Network.csprojAssemblyReference.cache
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfoInputs.cache
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\obj\Debug\netcoreapp3.0\Network.AssemblyInfo.cs
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\obj\Debug\netcoreapp3.0\Network.dll
+C:\Users\1\RiderProjects\MyFirstNeuralNetwork\Network\obj\Debug\netcoreapp3.0\Network.pdb
